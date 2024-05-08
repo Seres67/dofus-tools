@@ -1,0 +1,9 @@
+{
+  "dependencies" : [ {
+    "name" : "fltk",
+    "version>=" : "1.3.9"
+  }, {
+    "name" : "nlohmann-json",
+    "version>=" : "3.11.3"
+  } ]
+}
